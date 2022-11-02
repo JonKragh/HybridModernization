@@ -112,22 +112,22 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "531143f027fdebf20c677493dc8cf11c"
+        "md5": "b273f8e9bc94158e4273da40bc66771c"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "ab162cc264afb29900023bd8de6182e2"
+        "md5": "8fe9c2af47393e30bbdd13459dc6f7e8"
     },
     {
         "path": "hybrid-modernization.html",
         "type": "file",
-        "md5": "ebc461fa0a43f3bb8d1ff693dc4dd78c"
+        "md5": "382eb18449bf464e36de6aa1ad3f2354"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "0f804d1a54c299ce779f7bdb2cb1e07d"
+        "md5": "c936d91f1973fc7c45b96c2d343ffdea"
     },
     {
         "path": "robots.txt",
@@ -142,7 +142,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "acd819e4aa4dea1db51358d7d53a9af6"
+        "md5": "239bfbe25ca04211348fb64895374048"
     },
     {
         "path": "sitemap.xsl",
