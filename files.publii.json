@@ -107,27 +107,27 @@
     {
         "path": "/authors/jon-kragh/index.html",
         "type": "file",
-        "md5": "24efe5c61706999f8946b15065198b5d"
+        "md5": "4dc4414923ff1d371b3e85eff1d81ce4"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "cf0b39ee7d9a038cb66b626d73b03432"
+        "md5": "adfa7cf6ffdf1f3407a8f84ad768896b"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "1e7137e417131ea4d5b5b395867bcbd6"
+        "md5": "c14234622297da50ea5707688715277f"
     },
     {
         "path": "hybrid-modernization.html",
         "type": "file",
-        "md5": "1628e679ef014c0d24d42bcbebdb86bf"
+        "md5": "53f33c7f97c10f4269316e65a9ed9c42"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "add56378c3d50476cd3f3eb611e5fb90"
+        "md5": "26ad2ff37a8aa513ac8c4f7cbce14a60"
     },
     {
         "path": "robots.txt",
@@ -142,7 +142,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "059dad692438cf76c2b167edb6103629"
+        "md5": "023ec144841e9cadb0625b300dfcb6aa"
     },
     {
         "path": "sitemap.xsl",
